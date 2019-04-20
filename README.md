@@ -1,5 +1,5 @@
 # WebService_Produtos
-webservice de teste para cadastrar, retornar e editar produtos.
+Webservice de teste para cadastrar, retornar e editar produtos.
 Projeto feito em Django 2.0 utilizando a IDE PyCharm.
 
 # Requisitos:
