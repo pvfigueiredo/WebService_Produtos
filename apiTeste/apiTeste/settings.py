@@ -78,8 +78,8 @@ WSGI_APPLICATION = 'apiTeste.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'petshopWS',
-        'USER': 'vinicius',
+        'NAME': 'produtosWS',
+        'USER': 'root',
         'PASSWORD': 'root',
         'HOST': 'localhost',
         'PORT': '3306',
